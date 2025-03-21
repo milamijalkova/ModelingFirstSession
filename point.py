@@ -8,8 +8,8 @@ class Point:
     def __init__(self, x, y):
         """
         Initialize the point instance
-        :param x: the x axis coordinate value
-        :param y: the y axis coordinate value
+        :param x: the x-axis coordinate value
+        :param y: the y-axis coordinate value
         """
         self.x = x
         self.y = y
